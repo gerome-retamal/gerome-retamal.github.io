@@ -22,15 +22,14 @@ Well, that's me. Want to know more? (Or want to hire me?) See below or my CV, up
   Data Analyst (2017-2019)
   
 # Education
-* [Ghent University](https://www.imrd.ugent.be/programme)
+* [MSc in Rural Development](https://www.imrd.ugent.be/programme) (2022-2024)
 
-  MSc in Rural Development (2022-2024)
+  Ghent University
 
-* [National Taiwan University](https://www.agec.ntu.edu.tw/en/inter/inter1)
+* [MSc in Agricultural Economics](https://www.agec.ntu.edu.tw/en/inter/inter1) (2020-2022)
+  
+  National Taiwan University
 
-  MSc in Agricultural Economics (2020-2022)
-
-* [University of the Philippines](https://cem.uplb.edu.ph/acad-programs/bachelor-of-science-in-economics/)
-
-  BSc in Economics (2013-2017)
-
+* [BSc in Economics](https://cem.uplb.edu.ph/acad-programs/bachelor-of-science-in-economics/) (2013-2017)
+  
+  Univeristy of the Philippines
