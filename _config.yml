@@ -1,6 +1,6 @@
-title: "Gerome Retamal"
+title: "Jotting thoughts"
 author: "Gerome Retamal"
-description: "Personal website of the author"
+description: "Jotting thoughts, with Gerome, is a personal blog of the author."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,8 +16,8 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
- - {file: "aboutme.md", title: "About me"}
- - {file: "blog.md", title: "Blog"}
+ - {file: "aboutme.md", title: "About Me"}
+ - {file: "blog.md", title: "Blog Posts"}
  - {file: "academicwork.md", title: "Academic Work"}
  - {file: "resume.pdf", title: "CV"}
 
