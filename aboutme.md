@@ -2,7 +2,6 @@
 layout: page
 title: "About me"
 ---
-
 Hi there! This is the personal website of Gerome Retamal.
 
 # Experience
