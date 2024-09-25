@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Welcome"
 ---
 
 Hi there! This is the personal website of Gerome Retamal.
