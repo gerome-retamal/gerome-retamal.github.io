@@ -14,17 +14,17 @@ Hi there! This is the personal website of Gerome Retamal.
   
   Senior Analyst (2019-2020)
   
-  Data Analyst (2020-2020)
+  Data Analyst (2017-2019)
   
 # Education
-* Ghent University
+* [Ghent University](https://www.imrd.ugent.be/programme)
 
   MSc in Rural Development (2022-2024)
 
-* National Taiwan University
+* [National Taiwan University](https://www.agec.ntu.edu.tw/en/inter/inter1)
 
   MSc in Agricultural Economics (2020-2022)
 
-* University of the Philippines
+* [University of the Philippines](https://cem.uplb.edu.ph/acad-programs/bachelor-of-science-in-economics/)
 
   BSc in Economics (2013-2017)
