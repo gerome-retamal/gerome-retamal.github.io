@@ -16,9 +16,10 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "resume.pdf", title: "CV"}
-  - {file: "academicwork.md", title: "Academic Work"}
-  - {file: "aboutme.md", title: "About me"}
+ - {file: "aboutme.md", title: "About me"}
+ - {file: "blog.md", title: "Blog"}
+ - {file: "academicwork.md", title: "Academic Work"}
+ - {file: "resume.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/geromelr/"}
