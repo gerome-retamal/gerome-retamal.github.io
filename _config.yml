@@ -1,6 +1,6 @@
 title: "Jotting thoughts"
 author: "Gerome Retamal"
-description: "Jotting thoughts, with Gerome, is a personal blog of the author."
+description: "The views expressed in my posts are my own and do not reflect those of my employer or any affiliated organisations. All shared information is for personal, informational, or educational purposes only and should not be interpreted as reflecting the stance of any institution I am associated with."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
