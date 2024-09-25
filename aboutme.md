@@ -8,7 +8,7 @@ On a less serious note, I like playing badminton. I'm not an expert, and I don't
 
 I speak English, Filipino, and an A2-B1 level of Mandarin Chinese. I am trying (but most of the time failing) to self-study French, which I would dare say, is more difficult to learn than Mandarin Chinese.
 
-Well, that's me. Want to know more? See below or my CV, up there!
+Well, that's me. Want to know more? (Or want to hire me?) See below or my CV, up there!
 
 # Experience
 * [World Trade Organization](https://www.wto.org/index.htm), Geneva, Switzerland
