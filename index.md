@@ -1,16 +1,16 @@
 ---
 layout: page
-title: "Blog"
+title: ""
 ---
 
 Hi there! This is the personal website of Gerome Retamal.
 
 # Experience
-* (World Trade Organization) [https://www.wto.org/index.htm]
+* [World Trade Organization] (https://www.wto.org/index.htm)
   
   Intern (2024-2024)
   
-* (National Irrigation Administration) [https://www.nia.gov.ph/]
+* [National Irrigation Administration] (https://www.nia.gov.ph/)
   
   Senior Analyst (2019-2020)
   
