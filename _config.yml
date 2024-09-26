@@ -16,15 +16,15 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
- - {file: "aboutme.md", title: "About Me"}
  - {file: "blog.md", title: "Blog Posts"}
+ - {file: "aboutme.md", title: "About Me"}
  - {file: "academicwork.md", title: "Academic Work"}
  - {file: "resume.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/geromelr/"}
   - {title: Instagram, icon: instagram, url: "https://www.instagram.com/geromelr_?igsh=MTFycXlyNDFldmRxMQ=="}
-  - {title: Bluesky, icon: bluesky, url: "https://bsky.app/profile/gretamal.bsky.social"}
+  - {title: Bluesky, icon: butterfly, url: "https://bsky.app/profile/gretamal.bsky.social"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
