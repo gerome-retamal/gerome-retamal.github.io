@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Academic Work"
+title: "Academic work"
 ---
 Hi there! Here are my academic outputs.
 
