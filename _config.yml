@@ -10,15 +10,15 @@ date_format: "%B %d, %Y"
 
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: true        # show a sidebar instead of the usual header
+show_sidebar: false        # show a sidebar instead of the usual header
 minimal: true             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
- - {file: "blog.md", title: "Blog Posts"}
- - {file: "aboutme.md", title: "About Me"}
- - {file: "academicwork.md", title: "Academic Work"}
+ - {file: "blog.md", title: "Blog"}
+ - {file: "aboutme.md", title: "About me"}
+ - {file: "academicwork.md", title: "Academic work"}
  - {file: "resume.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
